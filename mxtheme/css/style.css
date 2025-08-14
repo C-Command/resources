@@ -4205,7 +4205,7 @@ input[type=checkbox] {
 
 	.navbar-item i {
 		vertical-align: text-bottom;
-		/*width: 19px;*/
+		width: 18px;
 		text-align: center
 	}
 
